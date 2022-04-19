@@ -1,0 +1,1 @@
+/mnt/d/CODE/page/DeepseaXX.github.io
