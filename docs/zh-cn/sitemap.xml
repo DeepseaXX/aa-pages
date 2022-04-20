@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://deepseaxx.github.io/aa-pages/</loc>
-    <lastmod>2022-04-20T07:05:27+09:00</lastmod>
+    <lastmod>2022-04-20T15:23:31+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +20,11 @@
                 hreflang="zh-cn"
                 href="https://deepseaxx.github.io/aa-pages/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://deepseaxx.github.io/aa-pages/about/</loc>
+    <lastmod>2022-04-20T15:23:31+09:00</lastmod>
   </url>
   
   <url>

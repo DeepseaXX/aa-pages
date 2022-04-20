@@ -6,10 +6,19 @@
     <description>Recent content on AA&#39;s test page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Apr 2022 07:05:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 15:23:31 +0900</lastBuildDate>
     
 	<atom:link href="https://deepseaxx.github.io/aa-pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于我</title>
+      <link>https://deepseaxx.github.io/aa-pages/about/</link>
+      <pubDate>Wed, 20 Apr 2022 15:23:31 +0900</pubDate>
+      
+      <guid>https://deepseaxx.github.io/aa-pages/about/</guid>
+      <description>我</description>
+    </item>
     
     <item>
       <title>Second</title>
