@@ -47,15 +47,15 @@ publishDir = "docs"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "DeepseaXX"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "AA's blog"
+    paragraph             = "Totally by interests"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -68,7 +68,7 @@ publishDir = "docs"
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "Thanks for your click. This theme was developed for Hugo static site generator."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -145,6 +145,41 @@ publishDir = "docs"
     LanguageCode        = "zh-CN"
     LanguageName        = "中文 (简体)"
     weight              = 7
+
+    [[Languages.zh-CN..menu.main]]
+      name              = "主页"
+      identifier        = "home"
+      url               = ""
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.zh-CN..menu.main]]
+      name              = "关于"
+      identifier        = "about"
+      url               = "about"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.zh-CN..menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "blog"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.zh-CN..menu.main]]
+      name              = "分类"
+      identifier        = "categories"
+      url               = "categories"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.zh-CN..menu.main]]
+      name              = "联系"
+      identifier        = "contact"
+      url               = "contact"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
 
   [Languages.ja]
     LanguageCode        = "ja"
